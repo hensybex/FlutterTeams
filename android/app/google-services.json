@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "335376641060",
+    "project_id": "blackpearlflutter",
+    "storage_bucket": "blackpearlflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335376641060:android:7461e8c5f4584960453cb1",
+        "android_client_info": {
+          "package_name": "com.example.black_pearl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335376641060-ae07q42pav3v4vg4bvpc8dmd3d01jmfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXPqO-cfnskg5KaY2trXKjOZgDSyXVkXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335376641060-ae07q42pav3v4vg4bvpc8dmd3d01jmfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
